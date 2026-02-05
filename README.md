@@ -79,5 +79,7 @@ Building an Optical Character Recognition app using Google Cloud tools.
 
 
 ---
+![Shivjot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivjotChoudhary&theme=tokyo-night)
+
 
 ⭐ Thanks for visiting my profile!
