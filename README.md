@@ -1,21 +1,20 @@
-# Hi, I'm Shivjot Choudhary 👋  
+<h1 align="center">Hi 👋, I'm Shivjot Choudhary</h1>
 
-🎓 B.Tech Engineering Student  
-🤖 Aspiring AI/ML Engineer  
-🌐 Full-Stack Developer | Python Learner  
-
-I build real-world projects combining **AI, Web Development, and Embedded Systems**.  
-Currently focused on **Machine Learning, Computer Vision, and System Design**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Engineering+Student;Aspiring+AI%2FML+Engineer;Building+Real+World+Projects;Python+%7C+Machine+Learning+Learner&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🔧 Working on AI & Machine Learning projects  
-- 🌐 Learning full-stack development  
-- 📊 Practicing Data Structures & Algorithms  
-- ⚙️ Building Arduino & IoT systems  
-- 🎯 Goal: Become a Machine Learning Engineer  
+🎓 B.Tech Engineering Student  
+🤖 Aspiring AI/ML Engineer  
+🌐 Learning Full-Stack Development  
+🔧 Building AI, Web, and Embedded Systems projects  
+🎯 Goal: Become a Machine Learning Engineer  
+
+I enjoy building real-world projects and improving my skills in **Machine Learning, System Design, and Problem Solving**.
 
 ---
 
@@ -27,29 +26,49 @@ Python • NumPy • Pandas • Matplotlib • Scikit-Learn • Jupyter
 **Web Development**  
 HTML • CSS • JavaScript  
 
-**Databases**  
-MySQL  
+**Embedded / IoT**  
+Arduino • Sensors (DHT, BMP280)
 
 **Tools**  
 Git • GitHub • VS Code • Google Colab  
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 Projects
 
-- 🤖 AI Number Guessing Game  
-- 🌡 Weather Monitoring System (Arduino + Sensors)  
-- 🧠 Machine Learning mini projects  
-- 🌐 Full-stack practice projects  
+🤖 **AI Number Guessing Game**  
+Python CLI project using logic and randomization.
+
+🌡 **Weather Monitoring System**  
+Arduino-based IoT project using DHT & BMP sensors for real-time environmental data.
+
+🧠 **Machine Learning Mini Projects**  
+Practice models for learning ML fundamentals and data processing.
+
+📚 **Library Management System (In Progress)**  
+Full-stack project for managing books, users, and records.
+
+🔍 **OCR App using GCP (In Progress)**  
+Building an Optical Character Recognition app using Google Cloud tools.
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
 - Machine Learning fundamentals  
 - Data Structures & Algorithms  
 - Backend development  
 - Model deployment basics  
+- Cloud tools (GCP basics)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivjotChoudhary&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivjotChoudhary&theme=tokyonight" />
+</p>
 
 ---
 
