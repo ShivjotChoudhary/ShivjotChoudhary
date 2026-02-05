@@ -63,7 +63,7 @@ Practice models for learning ML fundamentals and data processing.
 📚 **Library Management System (In Progress)**  
 Full-stack project for managing books, users, and records.
 
-🔍 **OCR App using GCP (In Progress)**  
+🔍 **Cloud AI Data Processing Pipeline (In Progress)**  
 Building an Optical Character Recognition app using Google Cloud tools.
 
 ---
