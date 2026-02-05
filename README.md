@@ -17,25 +17,25 @@
 I enjoy building real-world projects and improving my skills in **Machine Learning, System Design, and Problem Solving**.
 
 ---
-
 ## 🛠 Tech Stack
+
 ### 🤖 AI / ML
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter" />
 </p>
 
 ### 🌐 Web Development
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🔧 Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### ⚙ Embedded / IoT
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
