@@ -64,10 +64,10 @@ Building an Optical Character Recognition app using Google Cloud tools.
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivjotChoudhary&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ShivjotChoudhary&theme=radical" height="170"/>
-</p>
+![GitHub followers](https://img.shields.io/github/followers/ShivjotChoudhary?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ShivjotChoudhary?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ShivjotChoudhary&color=blue)
+
 
 ---
 
