@@ -19,18 +19,26 @@ I enjoy building real-world projects and improving my skills in **Machine Learni
 ---
 
 ## 🛠 Tech Stack
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter" />
+</p>
 
-**AI / ML**  
-Python • NumPy • Pandas • Matplotlib • Scikit-Learn • Jupyter  
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Web Development**  
-HTML • CSS • JavaScript  
+### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-**Embedded / IoT**  
-Arduino • Sensors (DHT, BMP280)
+### ⚙ Embedded / IoT
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
-**Tools**  
-Git • GitHub • VS Code • Google Colab  
 
 ---
 
