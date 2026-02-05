@@ -62,20 +62,11 @@ Building an Optical Character Recognition app using Google Cloud tools.
 - Cloud tools (GCP basics)
 
 ---
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivjotChoudhary&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ShivjotChoudhary&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivjotChoudhary&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivjotChoudhary&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ShivjotChoudhary&theme=radical" height="170"/>
 </p>
 
 
