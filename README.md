@@ -66,7 +66,7 @@ Building an Optical Character Recognition app using Google Cloud tools.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivjotChoudhary&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ShivjotChoudhary&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ShivjotChoudhary&theme=radical" height="170"/>
 </p>
 
 ---
