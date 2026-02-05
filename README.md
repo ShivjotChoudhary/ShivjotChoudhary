@@ -47,6 +47,8 @@ I enjoy building real-world projects and improving my skills in **Machine Learni
 ---
 
 ## 🚀 Projects
+🧮 Matrix Calculator using NumPy
+Interactive Python project for performing linear algebra operations (addition, multiplication, transpose, determinant, inverse) using NumPy. Features user-input matrices and enhanced terminal UI with Rich.
 
 🤖 **AI Number Guessing Game**  
 Python CLI project using logic and randomization.
