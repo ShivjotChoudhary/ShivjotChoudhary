@@ -47,6 +47,11 @@ I enjoy building real-world projects and improving my skills in **Machine Learni
 ---
 
 ## 🚀 Projects
+🧮 **Matrix Calculator Desktop App (NumPy | macOS)** ⭐  
+A NumPy-based matrix calculator packaged as a native macOS `.app` using **Tkinter + PyInstaller**, without Swift or native frameworks.
+
+🔗 GitHub: https://github.com/ShivjotChoudhary/matrix-calculator-app
+
 🧮 Matrix Calculator using NumPy
 
 Interactive Python project for performing linear algebra operations (addition, multiplication, transpose, determinant, inverse) using NumPy. Features user-input matrices and enhanced terminal UI with Rich.
