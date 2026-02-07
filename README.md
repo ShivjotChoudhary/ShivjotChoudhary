@@ -24,7 +24,7 @@ I enjoy building real-world projects and improving my skills in **Machine Learni
 
 ### 🤖 AI / ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,sklearn" />
+  ![Skills](https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,sklearn)
 </p>
 
 
