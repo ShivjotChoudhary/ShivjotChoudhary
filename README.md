@@ -23,10 +23,10 @@ I enjoy building real-world projects and improving my skills in **Machine Learni
 ## 🛠 Tech Stack
 
 ### 🤖 AI / ML
-<p>
- ![Skills](https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,sklearn)
-</p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,jupyter" />
+</p>
 
 ### 🌐 Web Development
 <p>
